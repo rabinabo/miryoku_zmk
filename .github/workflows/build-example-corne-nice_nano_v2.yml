@@ -12,4 +12,4 @@ jobs:
       shield: '["corne_left","corne_right"]'
       alphas: '["QWERTY"]'
       nav: '["invertedT"]'
-      clipboard: '["Mac"]'
+      layers: '["flip"]'
